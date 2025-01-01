@@ -2,3 +2,8 @@ header {
     width: 100%;
     height: auto;
 }
+a {
+        font-family: "Hina Mincho", serif;
+        font-weight: 400;
+        font-style: normal;     
+}
